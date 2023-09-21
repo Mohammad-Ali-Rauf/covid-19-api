@@ -1,7 +1,6 @@
 {
 	"name": "covid19",
 	"version": "1.0.0",
-	"main": "cache/dist/cache/index.js",
 	"license": "MIT",
 	"scripts": {
 		"test": "jest",
